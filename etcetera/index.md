@@ -1,6 +1,19 @@
-# Et cetera
+# Desiderata
 
-This is the rest. Things I wanted to keep on this website but didn't really fit in other tabs. Here you can find some quotations I like, links to websites I like, et cetera.
+If you are visiting this page, I'll assume you pretty much everything that had to be seen or that interested you somehow in this website. This page is for stuff that I really did not wanna to keep off the website but it couldn't fit anywhere else. 
+
+## Utilities 
+So far there where just materials made by me, in this section I recommend what I think to be useful to every physics student and even to every student in general. 
+
+* <b>[Young Researchers of Quantum Gravity](https://sites.google.com/view/yrqg/):</b> The YRQG is definitely one of those places where you learn a lot and unfourtunately is not a well known series of seminars. YRQG consists in series of seminars made by researchers in the field of quantum gravity showing their work to other researchers in the field, you don't need to be a Phd to be part of this iniciative although if you don't have physics background at a certain level, it may be hard to follow. 
+
+* [Prof. Henrique Fleming's website](http://www.hfleming.com) has excellent notes (mostly in Portuguese) concerning Physics and Mathematics which helped me numerous times.
+* You can find amazing materials on Mathematical Physics at [Prof. João C. A. Barata's website](http://denebola.if.usp.br/). In particular, the comprehensive online book [*Notas para um Curso de Física-Matemática*](http://denebola.if.usp.br/~jbarata/Notas_de_aula/notas_de_aula.html).
+* Ever wondered how can one study the whole Universe at once, or use gravitational waves to hear the Big Bang? Check out [Beatriz Tucci's website](https://wwwmpa.mpa-garching.mpg.de/~tucci/) to learn more about GWs and Cosmology!
+* How can rigorous mathematical methods help us understand statistical systems? Take a look at [Dr. Thiago Raszeja's webpage](https://sites.google.com/view/thiagoraszeja/) to learn more about it and be sure to check the notes for his minicourse [*An Introduction to C*-Algebras and KMS States for Physicists*](https://drive.google.com/file/d/1o27KhytxWNz_Q1wm5Z8xRgTq8V8bH7ez/view)!
+* [Prof. David Tong's lecture notes](http://www.damtp.cam.ac.uk/user/tong/teaching.html) helped me on a multitude of advanced courses and I really wish I knew them sooner so I could also use them even back when I was studying the three laws of motion…
+
+
 
 ## Quotations
 
@@ -178,25 +191,3 @@ I started watching <a href="https://www.imdb.com/title/tt0092455/" target="_blan
 * There are creatures in the universe who would consider you the ultimate achievement, android. No feelings, no emotions, no pain—and yet you covet those qualities of humanity. Believe me, you're missing nothing. But if it means anything to you, you're a better human than I. 
 
   Q. [S03E13 "Deja Q"](https://www.imdb.com/title/tt0708699/).
-
-## Questionable Quotations
-
-Who am I fooling? Apocryphal quotations can be fun as well. Just be aware that I might have no clue whether any of these were actually said. 
-
-* Les papillons sont le seule chose importante…
-  
-  Attributed to Laurent Schwartz. I came across it reading [these notes on Green's functions](http://www.hfleming.com/green.pdf) written by [Prof. Henrique Fleming](http://www.hfleming.com/). Legend tells Schwartz enjoyed catching butterflies and, when he was in Rio de Janeiro, a reporter surprised with how much time he spent on this would have asked him whether the butterflies were as important as Mathematics. Schwartz's answer? ''The butterflies are the only important thing...''
-* I can't stay up that late.
-  
-  Attributed to Sidney Coleman, refusing to teach a 9 a.m. class. As quoted on [his obituary at The Harvard Gazette](https://news.harvard.edu/gazette/story/2007/11/sidney-coleman-dies-at-70/).
-
-
-## Links
-
-Here are a few links that the readers of this website might find interesting.
-
-* [Prof. Henrique Fleming's website](http://www.hfleming.com) has excellent notes (mostly in Portuguese) concerning Physics and Mathematics which helped me numerous times.
-* You can find amazing materials on Mathematical Physics at [Prof. João C. A. Barata's website](http://denebola.if.usp.br/). In particular, the comprehensive online book [*Notas para um Curso de Física-Matemática*](http://denebola.if.usp.br/~jbarata/Notas_de_aula/notas_de_aula.html).
-* Ever wondered how can one study the whole Universe at once, or use gravitational waves to hear the Big Bang? Check out [Beatriz Tucci's website](https://wwwmpa.mpa-garching.mpg.de/~tucci/) to learn more about GWs and Cosmology!
-* How can rigorous mathematical methods help us understand statistical systems? Take a look at [Dr. Thiago Raszeja's webpage](https://sites.google.com/view/thiagoraszeja/) to learn more about it and be sure to check the notes for his minicourse [*An Introduction to C*-Algebras and KMS States for Physicists*](https://drive.google.com/file/d/1o27KhytxWNz_Q1wm5Z8xRgTq8V8bH7ez/view)!
-* [Prof. David Tong's lecture notes](http://www.damtp.cam.ac.uk/user/tong/teaching.html) helped me on a multitude of advanced courses and I really wish I knew them sooner so I could also use them even back when I was studying the three laws of motion…

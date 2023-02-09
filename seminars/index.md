@@ -8,7 +8,7 @@ Unlike the usual physicist esteriotype, I enjoy meeting and talking with people.
 
 **Data:** 17th November, 2022.
 
-Seminar presented in the Journal Club of the Quantum Field Theory and Gravitation Group. The seminar material can be found [here](https://alves-nickolas.github.io/seminars/Por_que_as_coisas_caem_.pdf).
+Seminar presented in the Journal Club of the Quantum Field Theory and Gravitation Group. The seminar material can be found [here](https://usingcaio.github.io/seminars/Journal_Club___17_11_22.pdf).
 
 
 

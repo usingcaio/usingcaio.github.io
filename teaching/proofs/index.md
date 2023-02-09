@@ -2,7 +2,7 @@
 
 These are the information on the course 'Principios Matematicos Para Fisica' that I taught for the first time in March 2022, together with the [Diretorio Academico da Fisica](https://www.instagram.com/dafis.ufc/).
 
-**Teachers:** [Caio Cesar Rodrigues Evangelista](https://usingcaio.github.io/), ([UFC](https://fisica.ufc.br)
+**Teachers:** [Caio Cesar Rodrigues Evangelista](https://usingcaio.github.io/), [Physics department UFC](https://fisica.ufc.br)
 
 **Date:** 17th Math of 2022
 

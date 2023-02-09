@@ -8,7 +8,7 @@ Unlike the usual physicist esteriotype, I enjoy meeting and talking with people.
 
 **Date:** 11th of February, 2022.
 
-Seminar presented as one of the tests in a Group Theory and Symmetries class in summer 2022. The seminar material can be found [here](https://usingcaio.github.io/seminars/Representações dos Grupo de Lorentz e Poincaré.pdf)
+Seminar presented as one of the tests in a Group Theory and Symmetries class in summer 2022. The seminar material can be found [here](https://usingcaio.github.io/seminars/Representações_dos_Grupo_de_Lorentz_e_Poincaré.pdf)
 
 ## Review of Black Holes in General Relativity
 

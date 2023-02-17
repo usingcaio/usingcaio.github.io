@@ -3,22 +3,26 @@
 If you are visiting this page, I'll assume you pretty much everything that had to be seen or that interested you somehow in this website. This page is for stuff that I really did not wanna to keep off the website but it couldn't fit anywhere else. 
 
 ## Utilities 
-So far there where just materials made by me, in this section I recommend what I think to be useful to every physics student and even to every student in general. 
+So far there where just materials made by me, in this section I recommend what I think to be useful to every physics student and in a certain extent to every student. 
 
-* <b>[Young Researchers of Quantum Gravity](https://sites.google.com/view/yrqg/):</b> The YRQG is definitely one of those places where you learn a lot and unfourtunately is not a well known series of seminars. YRQG consists in series of seminars made by researchers in the field of quantum gravity showing their work to other researchers in the field, you don't need to be a Phd to be part of this iniciative although if you don't have physics background at a certain level, it may be hard to follow. 
+* [Young Researchers of Quantum Gravity](https://sites.google.com/view/yrqg/): The YRQG is definitely one of those places where you learn a lot and unfourtunately is not a well known series of seminars. YRQG consists in series of seminars made by researchers in the field of quantum gravity showing their work to other researchers in the field, you don't need to be a Phd to be part of this iniciative although if you don't have physics background at a certain level, it may be hard to follow. 
 
-* [Prof. Henrique Fleming's website](http://www.hfleming.com) has excellent notes (mostly in Portuguese) concerning Physics and Mathematics which helped me numerous times.
-* You can find amazing materials on Mathematical Physics at [Prof. João C. A. Barata's website](http://denebola.if.usp.br/). In particular, the comprehensive online book [*Notas para um Curso de Física-Matemática*](http://denebola.if.usp.br/~jbarata/Notas_de_aula/notas_de_aula.html).
-* Ever wondered how can one study the whole Universe at once, or use gravitational waves to hear the Big Bang? Check out [Beatriz Tucci's website](https://wwwmpa.mpa-garching.mpg.de/~tucci/) to learn more about GWs and Cosmology!
-* How can rigorous mathematical methods help us understand statistical systems? Take a look at [Dr. Thiago Raszeja's webpage](https://sites.google.com/view/thiagoraszeja/) to learn more about it and be sure to check the notes for his minicourse [*An Introduction to C*-Algebras and KMS States for Physicists*](https://drive.google.com/file/d/1o27KhytxWNz_Q1wm5Z8xRgTq8V8bH7ez/view)!
-* [Prof. David Tong's lecture notes](http://www.damtp.cam.ac.uk/user/tong/teaching.html) helped me on a multitude of advanced courses and I really wish I knew them sooner so I could also use them even back when I was studying the three laws of motion…
+* [The Quantum Information Structure of Spacetime](https://www.qiss.fr/): For closer friends, QISS is a iniciative much similar to the YRQG, but with the aim of brigging together experimentalists, quantum information physicists and quantum gravity physicist. 
+
+* [Prof. Henrique Fleming's website](http://www.hfleming.com) has excellent notes  concerning physics and mathematics topics (mostly in Portuguese) which I highly recommend. 
+* [Prof. João C. A. Barata's website](http://denebola.if.usp.br/) is one of the biggest references when talking about mathematical physics sources, and they've helped me so many times! In particular, the comprehensive online book [*Notas para um Curso de Física-Matemática*](http://denebola.if.usp.br/~jbarata/Notas_de_aula/notas_de_aula.html).
+* [Prof. David Tong's lecture notes](http://www.damtp.cam.ac.uk/user/tong/teaching.html) are a series of lecture notes on advanced topics that I just knew very recently, but already got some help from it. 
 
 
 
 ## Quotations
 
-My old website already had a space for quotations in its Et cetera tab, but none of them had any sources. This time I'm gonna try to be more rigorous with these references, despite liking many quotations that are probably apocryphal. They are ordered according to the author's last name, year, and title. For quotes from movies or TV series, I order them according to the actor's last name.
+When studying anything, one of the firsts steps that I always go for is how that subject developted throughout history, and in middle of it I was got astonished by quotations on that topic. But quotations do not got me thinking just in the realm of physics and maths, but life in general. So here you'll find quotation that marked me someway through my life, ordered according to author and if possible, date. 
 
+
+* You have no idea how high I can fly.
+  
+  Michael G. Scott (Steve Carrell), in [*The Office*, S05E20: "New Boss"](https://www.imdb.com/title/tt1248741/).
 
 * Therefore, conclusions based on the renormalization group arguments concerning the behavior of the theory summed to all orders are dangerous and must be viewed with due caution.  
   So is it with all conclusions from local relativistic field theories.
@@ -27,9 +31,7 @@ My old website already had a space for quotations in its Et cetera tab, but none
 * When it comes to atoms, language can be used only as in poetry. The poet, too, is not nearly so concerned with describing facts as with creating images and establishing mental connections. 
   
   Niels Bohr, as quoted by Werner Heisenberg in *Physics and Beyond: Encounters and Conversations* (Harper & Row, New York, 1972).
-* You have no idea how high I can fly.
-  
-  Michael G. Scott (Steve Carrell), in [*The Office*, S05E20: "New Boss"](https://www.imdb.com/title/tt1248741/).
+
 * "Have you guessed the riddle yet?" the Hatter said, turning to Alice again.  
   "No, I give it up," Alice replied. "What's the answer?"  
   "I haven't the slightest idea," said the Hatter.  

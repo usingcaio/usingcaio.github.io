@@ -1,4 +1,4 @@
-# Desiderata
+# Et cetera
 
 If you are visiting this page, I'll assume you pretty much everything that had to be seen or that interested you somehow in this website. This page is for stuff that I really did not wanna to keep off the website but it couldn't fit anywhere else. 
 

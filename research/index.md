@@ -3,7 +3,7 @@
 In this page you can find a bit about my research interests and projects as time goes on.
 This page is in construction since I'm just a undergraduate student by now, so it can take some time to this page to be fully constructed. 
 
-## General Relativity 
+## General Relativity and Quantum Field Theory
 
 One of the biggest open problems in Physics is the quest to obtain a quantum theory of gravity. Since the 1930's it was know that General Relativity—our best description of spacetime—and Quantum Mechanics—our best description of what the Universe's fundamental laws should look like—seem to have weird behaviors when considered together. Since then, physicists have been working trying to figure out how to fit gravity and quantum phenomena together in the same picture and at all energies.
 

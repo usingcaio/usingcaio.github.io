@@ -2,9 +2,9 @@
 
 These are the information on the course 'Principios Matematicos Para Fisica' that I taught for the first time in March 2022, together with the [Diretorio Academico da Fisica](https://www.instagram.com/dafis.ufc/).
 
-**Teachers:** [Caio Cesar Rodrigues Evangelista](https://usingcaio.github.io/), Wagner Coelho
+**Teachers:** [Caio César](https://usingcaio.github.io/), Wagner Coelho
 
-**Date:** 17th Math of 2022
+**Date(2022):** 17th Math
 
 **Schedule:** 2pm to 4pm
 
@@ -15,8 +15,8 @@ These are the information on the course 'Principios Matematicos Para Fisica' tha
 **References:**
 
 These are the main references that guided the creation of this course. The complete references list can be seen in the lecture notes. 
-* Tao, Terence (2016). *Analysis I*. Singapore: Springer. 
-* Milies, César Polcino e Sônia Pitta Coelho (2006). *Números: Uma Introdução à Matemática*. São Paulo: Edusp.
-* Notas de aula.
+* Guidorizzi, Hamilton (2015). *Um Curso de Cálculo: Volume I*. Rio de Janeiro: LTC. 
+* Iezzi, Gelson. *Fundamentos da Matemática Elementar: Volume I, III, VI*. São Paulo: Atual.
+* Susskind, Leonard(2014). *The Theoretical Minimum: What You Need To Do To Start Doing Physics*. Chicago: Basic Books .
 
 

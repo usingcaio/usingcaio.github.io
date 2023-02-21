@@ -10,5 +10,5 @@ I've been writting these notes in order to organize my understanding on the topi
 I took these notes while I as taking a Modern Physics course in my 5th semester of my undergraduation. Here you may find a material containing what is sometimes called as the 'Old Quantum Mechanics', which are Black Body Radiation, The Bohr Model of The Atom and Compton Scattering. 
 
 
-## [Lorentz Group From an Undergrad Student]()
+## [Lorentz Group From an Undergrad Student](https://usingcaio.github.io/projects/notes/Lorentz.pdf)
 These notes were taking while I as taking a Group Theory and Symmetries in Physics, and while I had to prepare myself to give a seminar on Lorentz and Poincare groups, I decided it could be usefull to put into paper some basics of what I understood at the time. 

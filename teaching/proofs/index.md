@@ -10,7 +10,7 @@ These are the information on the course 'Principios Matematicos Para Fisica' tha
 
 **Total hours:** 10h
 
-**Descrição:** Esta é uma introdução aos principais conceitos e principios matematicos que guiam toda a base por tras da fisica. A ementa do curso pode ser encontrada [aqui]().
+**Descrição:** Esta é uma introdução aos principais conceitos e principios matematicos que guiam toda a base por tras da fisica. A ementa do curso pode ser encontrada [aqui](https://usingcaio.github.io/teaching/Ementa___PMF (4).pdf).
 
 **References:**
 

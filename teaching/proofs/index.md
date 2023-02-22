@@ -10,7 +10,7 @@ These are the information on the course 'Principios Matematicos Para Fisica' tha
 
 **Total hours:** 10h
 
-**Descrição:** Esta é uma breve introdução às principais técnicas de demonstrações matemáticas para estudantes de Física. É recomendada uma exposição prévia a alguns assuntos de Cálculo (como a definição formal de limite), mas tem o objetivo de ser tão autocontido quanto possível. A princípio serão estudadas, por meio de exemplos utilizando números inteiros, as técnicas de prova direta, por absurdo, por contrapositiva e por indução, além de alguns símbolos comuns em demonstrações matemáticas. A seguir, algumas destas técnicas serão utilizadas para mostrar como os procedimentos usuais de cálculo de limites se relacionam com a definição formal.
+**Descrição:** Esta é uma introdução aos principais conceitos e principios matematicos que guiam toda a base por tras da fisica. A ementa do curso pode ser encontrada [aqui]().
 
 **References:**
 
